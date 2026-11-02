@@ -1,2 +1,5 @@
 # onrobot-unity
-Evaluation samples for OnRobot assets in Unity
+
+OnRobot assets in Unity.
+
+This repository is provided for evaluation purposes.
